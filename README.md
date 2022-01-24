@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 在校大学僧，技术小白，苦逼打工人
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2402575933)](https://github.com/anuraghazra/github-readme-stats)
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d32343032353735393333](https://user-images.githubusercontent.com/74338779/150716762-ad8be3dd-0b02-45d3-b76f-75d76b44c17d.svg)
