@@ -21,4 +21,7 @@ Ordinary college students
 
 ## HERE ARE MY SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,spring,mysql,html,css,nodejs)](https://skillicons.dev)
+
+
+Hi, bro. Listen!! If you feel some of my repositories are helpful to you, you can give me a star ![33F4DA20](https://user-images.githubusercontent.com/74338779/178647383-307e3e10-1935-492d-a5dc-7768615fa2ab.png)
