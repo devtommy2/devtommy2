@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-在校大学僧，技术小白，苦逼打工人
+
+Ordinary college students
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2402575933)](https://github.com/anuraghazra/github-readme-stats)
+
+## HERE ARE MY SKILLS:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
