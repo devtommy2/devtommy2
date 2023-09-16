@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ordinary college students
+🔭 I’m currently working on how to make Java Program running fast.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2402575933)](https://github.com/anuraghazra/github-readme-stats)
+🌱 I’m currently learning something about JVM, Spring source code maybe, some data structure that may occured in the fucking interview!
 
-## HERE ARE MY SKILLS:
+🤔 I’m looking for help that who can give me some nice resources about how to learn JVM.
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,spring,mysql,html,css,nodejs)](https://skillicons.dev)
+💬 Contact me with wechat ,qq or e-mail in the following line: devtommy_, 2402575933, devtommy@aliyun.com
+
+😄 Pronouns: tommy vercetti, remember the name.
 
 
 Hi, bro. Listen!! If you feel some of my repositories are helpful to you, you can give me a star ![33F4DA20](https://user-images.githubusercontent.com/74338779/178647383-307e3e10-1935-492d-a5dc-7768615fa2ab.png)
