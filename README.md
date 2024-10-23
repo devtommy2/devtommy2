@@ -7,4 +7,4 @@
 
 - ☕️ I can do nothing if I don't have enough COFFEE.
 - 🍊 I'm learning business PROCESS MANAGEMENT and BUSINESS PROCESS OPTIMIZE. 
-- 📰 I'm usually writing some blog about tech at: [devtommy2.github.io](devtommy2.github.io)
+- 📰 I'm usually writing some blog about tech at: [devtommy2.github.io](https://devtommy2.github.io/)
